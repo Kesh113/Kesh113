@@ -45,9 +45,9 @@
 
 **Pet-проекты:**
 - [Wayback Downloader](https://github.com/Kesh113/wayback-downloader) — инструмент для скачивания архивных сайтов с Wayback Machine <img src="https://img.shields.io/badge/python-yellow?logo=python&logoColor=white"/>
-- [Recipes](https://github.com/Kesh113/Recipes) — соц. сеть для публикации кулинарных рецептов <img src="https://img.shields.io/badge/python-yellow?logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Django-yellow?logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/Django%20rest-yellow?logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/postgresql-yellow?logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/docker-yellow?logo=docker&logoColor=white"/>
-- [Stripe-API](https://github.com/Kesh113/Stripe-API) — приложение для работы с платёжными транзакциями <img src="https://img.shields.io/badge/python-yellow?logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Django-yellow?logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/stripe-yellow?logo=stripe&logoColor=white"/>
-- [R4C](https://github.com/kesh113/R4C) — сервис производителя роботов <img src="https://img.shields.io/badge/python-yellow?logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Django-yellow?logo=django&logoColor=white"/>
+- [Health Agent Android](https://github.com/Kesh113/health-agent-android) — Android-приложение: читает данные Samsung Health и отправляет на self-hosted AI-агент для анализа по расписанию <img src="https://img.shields.io/badge/kotlin-yellow?logo=kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/python-yellow?logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/aiogram-yellow?logo=telegram&logoColor=white"/>
+- [HR Bot](https://github.com/Kesh113/HR_bot) — Telegram-бот для автоматизации HR-процессов: иерархическое меню из CSV, статистика переходов, обновление структуры без перезапуска <img src="https://img.shields.io/badge/python-yellow?logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/aiogram-yellow?logo=telegram&logoColor=white"/> <img src="https://img.shields.io/badge/docker-yellow?logo=docker&logoColor=white"/>
+- [AI Assistant](https://github.com/Kesh113/AI-assistant) — Telegram userbot с интеграцией Perplexity AI для автоматических ответов <img src="https://img.shields.io/badge/python-yellow?logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/pyrogram-yellow?logo=telegram&logoColor=white"/>
 
 ---
 
