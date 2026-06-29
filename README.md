@@ -7,8 +7,8 @@
 
 ### :muscle: Мои достижения:
 
-- 1+ год коммерческой разработки backend на Python (FastAPI, интеграции CRM и телеком-платформ)
-- Запустил в продакшн 2 коммерческих продукта: VPN-сервис [@Trinity_main_bot](https://t.me/Trinity_main_bot) и платформу [Slife](https://s-life.ru)
+- 1+ год коммерческой разработки backend на Python (Django, FastAPI, интеграции CRM и телеком-платформ)
+- Запустил в продакшн 2 коммерческих продукта: VPN-сервис [@Trinity_main_bot](https://t.me/Trinity_main_bot) и платформу Legends of wuno.
 - Прошёл курс «Python-разработчик» в Яндекс Практикуме
 - 8 лет инженерного опыта: автоматизация производственных процессов, программирование ЧПУ, SAP ERP
 
@@ -32,14 +32,13 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
 ### :pushpin: Проекты:
 
 **Коммерческие:**
-- [Trinity VPN](https://t.me/Trinity_main_bot) — VPN-сервис по подписке с автовыдачей ключей и интеграцией платёжных систем (СБП, Telegram Stars) <img src="https://img.shields.io/badge/python-yellow?logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/aiogram-yellow?logo=telegram&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-yellow?logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/nginx-yellow?logo=nginx&logoColor=white"/>
+- [Trinity VPN](https://t.me/Trinity_main_bot) — VPN-сервис по подписке с автовыдачей ключей и интеграцией платёжных систем (СБП, Telegram Stars) <img src="https://img.shields.io/badge/python-yellow?logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/aiogram-yellow?logo=telegram&logoColor=white"/> <img src="https://img.shields.io/badge/nginx-yellow?logo=nginx&logoColor=white"/>
 - [Slife](https://s-life.ru) — платформа для развития социальных навыков через практические задания <img src="https://img.shields.io/badge/python-yellow?logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-yellow?logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/Flutter-yellow?logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/postgresql-yellow?logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/redis-yellow?logo=redis&logoColor=white"/>
 - [Legends of Wuno](https://github.com/Kesh113/Legends-of-Wuno) — корпоративное игровое приложение для геймификации командного взаимодействия (Tech Lead, команда 5 чел.) <img src="https://img.shields.io/badge/python-yellow?logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Django-yellow?logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/Django%20rest-yellow?logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/postgresql-yellow?logo=postgresql&logoColor=white"/>
 
